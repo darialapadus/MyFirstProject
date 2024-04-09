@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a583364c-acd0-4ada-8bcd-a47fbd1a57ab" name="Changes" comment="lab4">
+    <list default="true" id="a583364c-acd0-4ada-8bcd-a47fbd1a57ab" name="Changes" comment="lab5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,35 +38,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab2.task6.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab2.task7.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab3.task6.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab3.task7.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab4.task1.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab4.task2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab4.task3.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab4.task4.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab4.task5.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab5.bonus.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab5.task1.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lab5.task2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/daria/OneDrive/Desktop/PAO/MyFirstProject/src/main/java/org/example/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.lab2.task6.Main.executor": "Run",
+    "Application.lab2.task7.Main.executor": "Run",
+    "Application.lab3.task6.Main.executor": "Run",
+    "Application.lab3.task7.Main.executor": "Run",
+    "Application.lab4.task1.Main.executor": "Run",
+    "Application.lab4.task2.Main.executor": "Run",
+    "Application.lab4.task3.Main.executor": "Run",
+    "Application.lab4.task4.Main.executor": "Run",
+    "Application.lab4.task5.Main.executor": "Run",
+    "Application.lab5.bonus.Main.executor": "Run",
+    "Application.lab5.task1.Main.executor": "Run",
+    "Application.lab5.task2.Main.executor": "Run",
+    "Application.lab6.task1.Main.executor": "Run",
+    "Application.lab6.task2.Main.executor": "Run",
+    "Application.lab6.task3.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/daria/OneDrive/Desktop/PAO/MyFirstProject/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lab1.task1.Main" />
@@ -117,7 +120,12 @@
       <workItem from="1711445323693" duration="1127000" />
       <workItem from="1711457563629" duration="292000" />
       <workItem from="1712059778604" duration="1665000" />
-      <workItem from="1712077572101" duration="296000" />
+      <workItem from="1712077572101" duration="558000" />
+      <workItem from="1712228031988" duration="153000" />
+      <workItem from="1712231503891" duration="65000" />
+      <workItem from="1712231579855" duration="8000" />
+      <workItem from="1712678269947" duration="2086000" />
+      <workItem from="1712686629755" duration="1932000" />
     </task>
     <task id="LOCAL-00001" summary="lab2">
       <option name="closed" value="true" />
@@ -167,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711457813432</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lab5">
+      <option name="closed" value="true" />
+      <created>1712077921834</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712077921835</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +194,8 @@
     <MESSAGE value="lab2" />
     <MESSAGE value="lab3" />
     <MESSAGE value="lab4" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab4" />
+    <MESSAGE value="lab5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
