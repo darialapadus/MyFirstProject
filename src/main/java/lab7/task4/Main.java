@@ -12,7 +12,7 @@ public class Main {
                     int number = num;
                     int square = num * num;
                 })
-                .forEach(obj -> System.out.println("Numărul: " + obj.number + ", Patratul: " + obj.square));
+                .forEach(obj -> System.out.println("Numarul: " + obj.number + ", Patratul: " + obj.square));
     }
 }
 
