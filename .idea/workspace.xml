@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a583364c-acd0-4ada-8bcd-a47fbd1a57ab" name="Changes" comment="lab6">
+    <list default="true" id="a583364c-acd0-4ada-8bcd-a47fbd1a57ab" name="Changes" comment="lab7">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,12 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://D:/Java/lib/src.zip!/java.base/java/lang/Object.java" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -40,7 +48,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CreateDatabaseTable.executor": "Run",
+    "Application.DeletingCalculatorResults.executor": "Run",
+    "Application.DeletingDuplicateEntries.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.ReadingCalculatorResults.executor": "Run",
     "Application.SecondMain.executor": "Run",
     "Application.lab2.task6.Main.executor": "Run",
     "Application.lab2.task7.Main.executor": "Run",
@@ -62,6 +74,7 @@
     "Application.lab7.task3.Main.executor": "Run",
     "Application.lab7.task4.Main.executor": "Run",
     "Application.lab7.task5.Main.executor": "Run",
+    "Application.lab8.task1.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -74,6 +87,11 @@
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/daria/OneDrive/Desktop/PAO/MyFirstProject/src/main/java/org/example/Main.java",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -132,7 +150,10 @@
       <workItem from="1712231579855" duration="8000" />
       <workItem from="1712678269947" duration="2086000" />
       <workItem from="1712686629755" duration="1958000" />
-      <workItem from="1713275225511" duration="3657000" />
+      <workItem from="1713275225511" duration="3957000" />
+      <workItem from="1713793880217" duration="2283000" />
+      <workItem from="1713867034417" duration="5435000" />
+      <workItem from="1713883405465" duration="2572000" />
     </task>
     <task id="LOCAL-00001" summary="lab2">
       <option name="closed" value="true" />
@@ -198,7 +219,23 @@
       <option name="project" value="LOCAL" />
       <updated>1712688580266</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lab7">
+      <option name="closed" value="true" />
+      <created>1713279082910</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713279082910</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lab7">
+      <option name="closed" value="true" />
+      <created>1713279154232</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713279154232</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +248,8 @@
     <MESSAGE value="lab4" />
     <MESSAGE value="lab5" />
     <MESSAGE value="lab6" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab6" />
+    <MESSAGE value="lab7" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
