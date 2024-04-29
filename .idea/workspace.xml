@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a583364c-acd0-4ada-8bcd-a47fbd1a57ab" name="Changes" comment="lab7">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+    <list default="true" id="a583364c-acd0-4ada-8bcd-a47fbd1a57ab" name="Changes" comment="lab8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +73,7 @@
     "Application.lab7.task4.Main.executor": "Run",
     "Application.lab7.task5.Main.executor": "Run",
     "Application.lab8.task1.Main.executor": "Run",
+    "Application.lab9.task1.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -153,7 +152,8 @@
       <workItem from="1713275225511" duration="3957000" />
       <workItem from="1713793880217" duration="2283000" />
       <workItem from="1713867034417" duration="5435000" />
-      <workItem from="1713883405465" duration="2572000" />
+      <workItem from="1713883405465" duration="2890000" />
+      <workItem from="1714414972652" duration="2319000" />
     </task>
     <task id="LOCAL-00001" summary="lab2">
       <option name="closed" value="true" />
@@ -235,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713279154232</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="lab8">
+      <option name="closed" value="true" />
+      <created>1713886256612</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713886256612</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +257,8 @@
     <MESSAGE value="lab5" />
     <MESSAGE value="lab6" />
     <MESSAGE value="lab7" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab7" />
+    <MESSAGE value="lab8" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
