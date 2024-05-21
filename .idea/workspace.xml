@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a583364c-acd0-4ada-8bcd-a47fbd1a57ab" name="Changes" comment="lab9">
+    <list default="true" id="a583364c-acd0-4ada-8bcd-a47fbd1a57ab" name="Changes" comment="lab10">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +46,18 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.ChatClient.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChatServer.executor&quot;: &quot;Run&quot;,
     &quot;Application.CreateDatabaseTable.executor&quot;: &quot;Run&quot;,
     &quot;Application.DeletingCalculatorResults.executor&quot;: &quot;Run&quot;,
     &quot;Application.DeletingDuplicateEntries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FuturePower.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiThreadPower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParallelStreamPower.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReadingCalculatorResults.executor&quot;: &quot;Run&quot;,
     &quot;Application.SecondMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SequentialPower.executor&quot;: &quot;Run&quot;,
     &quot;Application.lab2.task6.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.lab2.task7.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.lab3.task6.Main.executor&quot;: &quot;Run&quot;,
@@ -180,7 +185,9 @@
       <workItem from="1713883405465" duration="2890000" />
       <workItem from="1714414972652" duration="2425000" />
       <workItem from="1715604899101" duration="5203000" />
-      <workItem from="1715615021177" duration="1631000" />
+      <workItem from="1715615021177" duration="2260000" />
+      <workItem from="1716211079810" duration="4892000" />
+      <workItem from="1716284806254" duration="648000" />
     </task>
     <task id="LOCAL-00001" summary="lab2">
       <option name="closed" value="true" />
@@ -278,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714417339031</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lab10">
+      <option name="closed" value="true" />
+      <created>1715616795689</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1715616795689</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,7 +309,8 @@
     <MESSAGE value="lab7" />
     <MESSAGE value="lab8" />
     <MESSAGE value="lab9" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab9" />
+    <MESSAGE value="lab10" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
