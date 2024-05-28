@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a583364c-acd0-4ada-8bcd-a47fbd1a57ab" name="Changes" comment="lab10">
+    <list default="true" id="a583364c-acd0-4ada-8bcd-a47fbd1a57ab" name="Changes" comment="lab11">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,10 +54,14 @@
     &quot;Application.FuturePower.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.MultiThreadPower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyUtilityClass.executor&quot;: &quot;Run&quot;,
     &quot;Application.ParallelStreamPower.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReadingCalculatorResults.executor&quot;: &quot;Run&quot;,
     &quot;Application.SecondMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.SequentialPower.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab12.task1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab12.task2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lab12.task3.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.lab2.task6.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.lab2.task7.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.lab3.task6.Main.executor&quot;: &quot;Run&quot;,
@@ -187,7 +191,8 @@
       <workItem from="1715604899101" duration="5203000" />
       <workItem from="1715615021177" duration="2260000" />
       <workItem from="1716211079810" duration="4892000" />
-      <workItem from="1716284806254" duration="648000" />
+      <workItem from="1716284806254" duration="839000" />
+      <workItem from="1716815643175" duration="2852000" />
     </task>
     <task id="LOCAL-00001" summary="lab2">
       <option name="closed" value="true" />
@@ -293,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715616795689</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="lab11">
+      <option name="closed" value="true" />
+      <created>1716285553772</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716285553772</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +323,8 @@
     <MESSAGE value="lab8" />
     <MESSAGE value="lab9" />
     <MESSAGE value="lab10" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab10" />
+    <MESSAGE value="lab11" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
